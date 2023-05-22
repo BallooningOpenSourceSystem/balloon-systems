@@ -2,7 +2,7 @@
 
 [Original photo](https://photolibrary.usap.gov/PhotoDetails.aspx?filename=ldb-crane-boss.jpg) of The Boss launch vehicle is by Mike Lucibella, Public Domain.
 
-https://opensource.guide/
+Learn more about open source projects [here](https://opensource.guide).
 
 # History
 

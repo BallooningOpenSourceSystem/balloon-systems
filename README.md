@@ -26,5 +26,3 @@ You can find [other information here](OtherInformation.md).
 
 # The List
 
-
-
