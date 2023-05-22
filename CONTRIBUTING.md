@@ -6,6 +6,16 @@ If you're new to open source, you can learn more about open source projects [her
 
 To make this resource as useful as possible and keep it easy to maintain, we set forth these contribution guidelines.
 
+## Format
+
+[**Project Name**](https://example.com): A one sentence description of the item.
+
+The markdown for this looks like:
+
+```markdown
+[**Project Name**](https://example.com): A one sentence description of the item.
+```
+
 ## Scope
 
 * Solves a particular problem
@@ -25,10 +35,6 @@ To make this resource as useful as possible and keep it easy to maintain, we set
 * Documented
     * Tell the reader what they need to know to get started, and maybe link to additional resources
     * e.g., don't link to a repository that has a blank `README.md` or doesn't list software dependencies
-
-## Format
-
-[ADD LIST ITEM FORMAT HERE]
 
 ## Add items!
 
