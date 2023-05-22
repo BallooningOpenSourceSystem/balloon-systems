@@ -2,6 +2,8 @@
 
 **B**alloon **O**pen **S**ource **S**tuff
 
+![the-boss](./img/boss-thumbnail.jpeg)
+
 ## What is this?
 
 A community-curated list of resources relevant to **scientific ballooning** in all its forms.
