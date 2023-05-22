@@ -4,9 +4,11 @@ First off, thank you for considering contributing to this list. The scientific b
 
 If you're new to open source, you can learn more about open source projects [here](https://opensource.guide).
 
-To make this resource as useful as possible and keep it easy to maintain, we set forth these contribution guidelines.
+To make this resource as useful as possible and keep it easy to maintain, we set forth these contribution guidelines for list items.
 
 ## Format
+
+*To keep the list organized and readable.*
 
 [**Project Name**](https://example.com): A one sentence description of the item.
 
@@ -18,23 +20,32 @@ The markdown for this looks like:
 
 ## Scope
 
+*To keep the content relevant and avoid becoming a dumping ground for ideas.*
+
 * Solves a particular problem
     * Think "Instructables," rather than a mission concept, system description, or trade study
     * e.g., printed circuit board layout files + bill of materials + assembly instructions for a modular power breakout system
-* Is not just a paper on the topic
-    * Papers provide context and are a great formal record of work done and its novelty, but are not the format with the least friction for reuse.
+* Is a well-defined project, process, or subsystem
+    * Is not just a paper on the topic
+        * Papers provide context and are a great formal record of work done and its novelty, but are not the format with the least friction for reuse.
     * Projects can and should link publications and memos for context and impact!
 
 ## Prerequisites
 
-* Open Source
+*To ensure the quality and usability of the list items.*
+
+* Complete
+    * Project or process has been flown or lab tested for a balloon that is being developed
+* Licensed
     * Open source licenses encourage reuse and community contribution. Especially for code products, having a [license](https://opensource.org/licenses/) is **critical** for allowing reuse. GitHub has some information on selecting licenses (open source or not) [here](https://docs.github.com/en/repositories/managing-your-repositorys-settings-and-features/customizing-your-repository/licensing-a-repository)
-* Terms for reuse and acknowledgment
-    * Specify who should be cited in publications and how (e.g. BibTeX snippets, example citations), if applicable
-    * Provide acknowledgments of support from institutions, if applicable
 * Documented
     * Tell the reader what they need to know to get started, and maybe link to additional resources
     * e.g., don't link to a repository that has a blank `README.md` or doesn't list software dependencies
+* Terms for reuse and acknowledgment
+    * Specify who should be cited in publications and how (e.g. BibTeX snippets, example citations), if applicable
+    * Provide acknowledgments of support from institutions, if applicable
+
+> **CAUTION:** As a guideline, only add items you're involved in, or after asking the maintainer(s). This list may provide a signal boost, and it's best that maintainers know this and are ready for the increased attention.
 
 ## Add items!
 
