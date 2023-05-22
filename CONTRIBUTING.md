@@ -1,6 +1,10 @@
 # Contributing
 
-Learn more about open source projects [here](https://opensource.guide).
+First off, thank you for considering contributing to this list. The scientific ballooning community is a relatively small one, and contributions from people like you make being a part of it rewarding.
+
+If you're new to open source, you can learn more about open source projects [here](https://opensource.guide).
+
+To make this resource as useful as possible and keep it easy to maintain, we set forth these contribution guidelines.
 
 ## Scope
 
@@ -22,23 +26,34 @@ Learn more about open source projects [here](https://opensource.guide).
     * Tells the reader what they need to know to get started, and may link to additional resources
     * e.g., don't link to a repository that has a blank `README.md` or doesn't list software dependencies
 
-### Add items!
+## Format
 
-* [Community members can add](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/getting-started/about-collaborative-development-models) items to the list via the [pull request system](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/about-pull-requests). In this model, you are asking the maintainers to incorporate the changes you have made on your own.
+[ADD LIST ITEM FORMAT HERE]
 
-### Suggest removals!
+## Add items!
 
-* When you think an item should be removed from the list, [create an issue](https://docs.github.com/en/issues/tracking-your-work-with-issues/creating-an-issue) for discussion.
+Do you have something you're proud of that you think others can benefit from?
 
-### Talk to others!
+[You can add](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/getting-started/about-collaborative-development-models) items to the list via the [pull request system](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/about-pull-requests). In this model, you are asking the maintainers to incorporate the changes you have made on your own.
 
-* When an aspect of a project linked here becomes obsolete or out-of-date, notify the maintainers of **that project**.
-* If you find an item useful and iterate on it, provide your changes as feedback to the maintainers of **that project** to help improve it!
+## Suggest removals!
 
-### Conduct
+Do you see an item that you think doesn't belong?
+
+[Create an issue](https://docs.github.com/en/issues/tracking-your-work-with-issues/creating-an-issue) for discussion.
+
+## Talk to others!
+
+When an aspect of a project linked here becomes obsolete or out-of-date, notify the maintainers of **that project**.
+
+If you find an item useful and iterate on it, provide your changes as feedback to the maintainers of **that project** to help improve it!
+
+## Conduct
 
 Use issue templates when creating issues.
 
 Use pull request templates when creating pull requests.
 
 We have adopted a [code of conduct](CODE_OF_CONDUCT.md) from a GitHub template, which we may modify in the future.
+
+## Frequently Asked Questions
