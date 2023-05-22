@@ -18,12 +18,12 @@ To make this resource as useful as possible and keep it easy to maintain, we set
 ## Prerequisites
 
 * Open Source
-    * Open source licenses encourage reuse and community contribution. Especially for code products, having a [license](https://opensource.org/licenses/) is **critical** for allowing reuse. GitHub has some information on selecting licenses (open source or not) [here](https://docs.github.com/en/repositories/managing-your-repositorys-settings-and-features/customizing-your-repository/licensing-a-repository
+    * Open source licenses encourage reuse and community contribution. Especially for code products, having a [license](https://opensource.org/licenses/) is **critical** for allowing reuse. GitHub has some information on selecting licenses (open source or not) [here](https://docs.github.com/en/repositories/managing-your-repositorys-settings-and-features/customizing-your-repository/licensing-a-repository)
 * Terms for reuse and acknowledgment
     * Specify who should be cited in publications and how (e.g. BibTeX snippets, example citations), if applicable
     * Provide acknowledgments of support from institutions, if applicable
 * Documented
-    * Tells the reader what they need to know to get started, and may link to additional resources
+    * Tell the reader what they need to know to get started, and maybe link to additional resources
     * e.g., don't link to a repository that has a blank `README.md` or doesn't list software dependencies
 
 ## Format
