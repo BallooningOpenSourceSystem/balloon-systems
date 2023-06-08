@@ -18,6 +18,8 @@ The markdown for this looks like:
 [**Project Name**](https://example.com): A one sentence description of the item.
 ```
 
+List items shall be in alphabetical order, by the project name.
+
 ## Scope
 
 *To keep the content relevant and avoid becoming a dumping ground for ideas.*

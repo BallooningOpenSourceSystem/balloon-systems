@@ -6,7 +6,9 @@
 * [ ] I have considered adding myself to the [Maintainers/Contributors](CONTRIBUTORS.txt) document.
 * [ ] My update to the list follows the format outlined in the [Contributing](CONTIBUTING.md) document:
 
-`[**Project Name**](https://example.com): A one sentence description of the item.`
+```markdown
+[**Project Name**](https://example.com): A one sentence description of the item.
+```
 
 ## Additional Information
 
