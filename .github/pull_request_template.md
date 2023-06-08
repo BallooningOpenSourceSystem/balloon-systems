@@ -7,7 +7,7 @@
 * [ ] My update to the list follows the format outlined in the [Contributing](CONTIBUTING.md) document:
 
 ```markdown
-[**Project Name**](https://example.com): A one sentence description of the item.
+* [**Project Name**](https://example.com): A one sentence description of the item.
 ```
 
 ## Additional Information

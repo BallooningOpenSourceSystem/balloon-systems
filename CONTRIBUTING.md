@@ -10,12 +10,12 @@ To make this resource as useful as possible and keep it easy to maintain, we set
 
 *To keep the list organized and readable.*
 
-[**Project Name**](https://example.com): A one sentence description of the item.
+* [**Project Name**](https://example.com): A one sentence description of the item.
 
 The markdown for this looks like:
 
 ```markdown
-[**Project Name**](https://example.com): A one sentence description of the item.
+* [**Project Name**](https://example.com): A one sentence description of the item.
 ```
 
 List items shall be in alphabetical order, by the project name.
