@@ -32,7 +32,7 @@ High-lift super-pressure, zero-pressure envelopes. e.g. SuperBIT, BLAST
 
 ### Ground Support Equipment
 
-* [**hotspot**](https://github.com/evanmayer/hotspot): A beam mapper for far-IR instruments; low-obscuration cable robot design carrying electronically chopped Hawkeye thermal sources.
+* [**hotspot**](https://evanmayer.github.io/hotspot): A beam mapper for far-IR instruments; low-obscuration cable robot design carrying electronically chopped Hawkeye thermal sources.
 
 ## Medium Balloons
 
